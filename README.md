@@ -1,2 +1,2 @@
 I'm learning programming.
-Ha?
+Maybe I can finish it earlier than planned?
